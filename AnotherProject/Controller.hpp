@@ -1,6 +1,6 @@
 //
 //  Controller.hpp
-//  I_Hate_Myself
+//  AnotherProject
 //
 //  Created by Amaya Penunuri, Yael on 1/29/18.
 //  Copyright © 2018 Amaya Penunuri, Yael. All rights reserved.
